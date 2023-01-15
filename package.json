@@ -74,7 +74,7 @@
 
     "dependencies": {
 
-        "@adiwajshing/baileys": "^4.0.1",
+        "@adiwajshing/baileys": "^4.4.0",
 
         "@adiwajshing/keyed-db": "^0.2.4",
 
