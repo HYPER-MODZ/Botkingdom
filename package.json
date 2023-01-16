@@ -164,7 +164,7 @@
         
         "youtube-yts": "^2.0.0",,
 
-        "youtubedl-core": "^4.11.2"
+        "youtubedl-core": "^4.11.2",
 
         "hxz-api": "^1.0.1"
 
